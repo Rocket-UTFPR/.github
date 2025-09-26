@@ -1,1 +1,1 @@
-# .github
+# Organização Equipe Rocket UTFPR
