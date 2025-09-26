@@ -1,1 +1,2 @@
 # Organização Equipe Rocket UTFPR
+A Equipe Rocket é um projeto de extensão da UTFPR de Cornélio Procópio com o objetivo de pesquisar e desenvolver foguetes de alta potência para competições de foguetemodelismo. O projeto permite aos alunos de engenharia desenvolver programas extraclasses, aplicando princípios aprendidos em sala de aula. Estes enfrentam situações desafiadoras, com objetivos claros e tempo pré-determinado, estimulando assim o uso de conhecimento científico como ferramenta para construir soluções criativas de maneira eficiente.
